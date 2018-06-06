@@ -1,0 +1,660 @@
+/global/home/users/salexucb/ht_test3/sim
+/global/home/users/salexucb/ht_test3/sim
+/global/home/users/salexucb/ht_test3/sim
+/global/home/users/salexucb/ht_test3/sim
+/global/home/users/salexucb/ht_test3/sim
+/global/home/users/salexucb/ht_test3/sim
+Loaded par file, parameters are:
+n : 1
+ancestorAgeno : ../../CEU.phgeno
+ancestorBgeno : ../../Han.phgeno
+ancestorAind : ../../CEU.phind
+ancestorBind : ../../Han.phind
+ancestorAsnp : ../../CEU.phsnp
+ancestorBsnp : ../../Han.phsnp
+trackancestry : True
+theta : 0.2
+outputfilename : Simulation
+lambda : 40.0
+haploidoutput : False
+Loaded par file, parameters are:
+n : 1
+ancestorAgeno : ../../CEU.phgeno
+ancestorBgeno : ../../Han.phgeno
+ancestorAind : ../../CEU.phind
+ancestorBind : ../../Han.phind
+ancestorAsnp : ../../CEU.phsnp
+ancestorBsnp : ../../Han.phsnp
+trackancestry : True
+theta : 0.2
+outputfilename : Simulation
+lambda : 10.0
+haploidoutput : False
+Loaded par file, parameters are:
+n : 1
+ancestorAgeno : ../../CEU.phgeno
+ancestorBgeno : ../../Han.phgeno
+ancestorAind : ../../CEU.phind
+ancestorBind : ../../Han.phind
+ancestorAsnp : ../../CEU.phsnp
+ancestorBsnp : ../../Han.phsnp
+trackancestry : True
+theta : 0.2
+outputfilename : Simulation
+lambda : 20.0
+haploidoutput : False
+Loaded par file, parameters are:
+n : 1
+ancestorAgeno : ../../CEU.phgeno
+ancestorBgeno : ../../Han.phgeno
+ancestorAind : ../../CEU.phind
+ancestorBind : ../../Han.phind
+ancestorAsnp : ../../CEU.phsnp
+ancestorBsnp : ../../Han.phsnp
+trackancestry : True
+theta : 0.2
+outputfilename : Simulation
+lambda : 30.0
+haploidoutput : False
+Loaded par file, parameters are:
+n : 1
+ancestorAgeno : ../../CEU.phgeno
+ancestorBgeno : ../../Han.phgeno
+ancestorAind : ../../CEU.phind
+ancestorBind : ../../Han.phind
+ancestorAsnp : ../../CEU.phsnp
+ancestorBsnp : ../../Han.phsnp
+trackancestry : True
+theta : 0.2
+outputfilename : Simulation
+lambda : 50.0
+haploidoutput : False
+/global/home/users/salexucb/ht_test3/sim
+/global/home/users/salexucb/ht_test3/sim
+Loaded par file, parameters are:
+n : 1
+ancestorAgeno : ../../CEU.phgeno
+ancestorBgeno : ../../Han.phgeno
+ancestorAind : ../../CEU.phind
+ancestorBind : ../../Han.phind
+ancestorAsnp : ../../CEU.phsnp
+ancestorBsnp : ../../Han.phsnp
+trackancestry : True
+theta : 0.2
+outputfilename : Simulation
+lambda : 60.0
+haploidoutput : False
+Loaded par file, parameters are:
+n : 1
+ancestorAgeno : ../../CEU.phgeno
+ancestorBgeno : ../../Han.phgeno
+ancestorAind : ../../CEU.phind
+ancestorBind : ../../Han.phind
+ancestorAsnp : ../../CEU.phsnp
+ancestorBsnp : ../../Han.phsnp
+trackancestry : True
+theta : 0.2
+outputfilename : Simulation
+lambda : 80.0
+haploidoutput : False
+/global/home/users/salexucb/ht_test3/sim
+Loaded par file, parameters are:
+n : 1
+ancestorAgeno : ../../CEU.phgeno
+ancestorBgeno : ../../Han.phgeno
+ancestorAind : ../../CEU.phind
+ancestorBind : ../../Han.phind
+ancestorAsnp : ../../CEU.phsnp
+ancestorBsnp : ../../Han.phsnp
+trackancestry : True
+theta : 0.2
+outputfilename : Simulation
+lambda : 70.0
+haploidoutput : False
+/global/home/users/salexucb/ht_test3/sim
+/global/home/users/salexucb/ht_test3/sim
+/global/home/users/salexucb/ht_test3/sim
+/global/home/users/salexucb/ht_test3/sim
+/global/home/users/salexucb/ht_test3/sim
+/global/home/users/salexucb/ht_test3/sim
+/global/home/users/salexucb/ht_test3/sim
+/global/home/users/salexucb/ht_test3/sim
+/global/home/users/salexucb/ht_test3/sim
+/global/home/users/salexucb/ht_test3/sim
+/global/home/users/salexucb/ht_test3/sim
+Loaded par file, parameters are:
+n : 1
+ancestorAgeno : ../../CEU.phgeno
+ancestorBgeno : ../../Han.phgeno
+ancestorAind : ../../CEU.phind
+ancestorBind : ../../Han.phind
+ancestorAsnp : ../../CEU.phsnp
+ancestorBsnp : ../../Han.phsnp
+trackancestry : True
+theta : 0.2
+outputfilename : Simulation
+lambda : 90.0
+haploidoutput : False
+Loaded par file, parameters are:
+n : 1
+ancestorAgeno : ../../CEU.phgeno
+ancestorBgeno : ../../Han.phgeno
+ancestorAind : ../../CEU.phind
+ancestorBind : ../../Han.phind
+ancestorAsnp : ../../CEU.phsnp
+ancestorBsnp : ../../Han.phsnp
+trackancestry : True
+theta : 0.2
+outputfilename : Simulation
+lambda : 100.0
+haploidoutput : False
+Loaded par file, parameters are:
+n : 1
+ancestorAgeno : ../../CEU.phgeno
+ancestorBgeno : ../../Han.phgeno
+ancestorAind : ../../CEU.phind
+ancestorBind : ../../Han.phind
+ancestorAsnp : ../../CEU.phsnp
+ancestorBsnp : ../../Han.phsnp
+trackancestry : True
+theta : 0.2
+outputfilename : Simulation
+lambda : 110.0
+haploidoutput : False
+Loaded par file, parameters are:
+n : 1
+ancestorAgeno : ../../CEU.phgeno
+ancestorBgeno : ../../Han.phgeno
+ancestorAind : ../../CEU.phind
+ancestorBind : ../../Han.phind
+ancestorAsnp : ../../CEU.phsnp
+ancestorBsnp : ../../Han.phsnp
+trackancestry : True
+theta : 0.2
+outputfilename : Simulation
+lambda : 150.0
+haploidoutput : False
+Loaded par file, parameters are:
+n : 1
+ancestorAgeno : ../../CEU.phgeno
+ancestorBgeno : ../../Han.phgeno
+ancestorAind : ../../CEU.phind
+ancestorBind : ../../Han.phind
+ancestorAsnp : ../../CEU.phsnp
+ancestorBsnp : ../../Han.phsnp
+trackancestry : True
+theta : 0.2
+outputfilename : Simulation
+lambda : 160.0
+haploidoutput : False
+Simulation is 1% doneLoaded par file, parameters are:
+n : 1
+ancestorAgeno : ../../CEU.phgeno
+ancestorBgeno : ../../Han.phgeno
+ancestorAind : ../../CEU.phind
+ancestorBind : ../../Han.phind
+ancestorAsnp : ../../CEU.phsnp
+ancestorBsnp : ../../Han.phsnp
+trackancestry : True
+theta : 0.2
+outputfilename : Simulation
+lambda : 190.0
+haploidoutput : False
+Loaded par file, parameters are:
+n : 1
+ancestorAgeno : ../../CEU.phgeno
+ancestorBgeno : ../../Han.phgeno
+ancestorAind : ../../CEU.phind
+ancestorBind : ../../Han.phind
+ancestorAsnp : ../../CEU.phsnp
+ancestorBsnp : ../../Han.phsnp
+trackancestry : True
+theta : 0.2
+outputfilename : Simulation
+lambda : 200.0
+haploidoutput : False
+Simulation is 1% doneSimulation is 1% doneLoaded par file, parameters are:
+n : 1
+ancestorAgeno : ../../CEU.phgeno
+ancestorBgeno : ../../Han.phgeno
+ancestorAind : ../../CEU.phind
+ancestorBind : ../../Han.phind
+ancestorAsnp : ../../CEU.phsnp
+ancestorBsnp : ../../Han.phsnp
+trackancestry : True
+theta : 0.2
+outputfilename : Simulation
+lambda : 180.0
+haploidoutput : False
+Loaded par file, parameters are:
+n : 1
+ancestorAgeno : ../../CEU.phgeno
+ancestorBgeno : ../../Han.phgeno
+ancestorAind : ../../CEU.phind
+ancestorBind : ../../Han.phind
+ancestorAsnp : ../../CEU.phsnp
+ancestorBsnp : ../../Han.phsnp
+trackancestry : True
+theta : 0.2
+outputfilename : Simulation
+lambda : 140.0
+haploidoutput : False
+Loaded par file, parameters are:
+n : 1
+ancestorAgeno : ../../CEU.phgeno
+ancestorBgeno : ../../Han.phgeno
+ancestorAind : ../../CEU.phind
+ancestorBind : ../../Han.phind
+ancestorAsnp : ../../CEU.phsnp
+ancestorBsnp : ../../Han.phsnp
+trackancestry : True
+theta : 0.2
+outputfilename : Simulation
+lambda : 170.0
+haploidoutput : False
+Simulation is 1% doneLoaded par file, parameters are:
+n : 1
+ancestorAgeno : ../../CEU.phgeno
+ancestorBgeno : ../../Han.phgeno
+ancestorAind : ../../CEU.phind
+ancestorBind : ../../Han.phind
+ancestorAsnp : ../../CEU.phsnp
+ancestorBsnp : ../../Han.phsnp
+trackancestry : True
+theta : 0.2
+outputfilename : Simulation
+lambda : 130.0
+haploidoutput : False
+Loaded par file, parameters are:
+n : 1
+ancestorAgeno : ../../CEU.phgeno
+ancestorBgeno : ../../Han.phgeno
+ancestorAind : ../../CEU.phind
+ancestorBind : ../../Han.phind
+ancestorAsnp : ../../CEU.phsnp
+ancestorBsnp : ../../Han.phsnp
+trackancestry : True
+theta : 0.2
+outputfilename : Simulation
+lambda : 120.0
+haploidoutput : False
+Simulation is 2% doneSimulation is 2% doneSimulation is 2% doneSimulation is 1% doneSimulation is 2% doneSimulation is 3% doneSimulation is 3% doneSimulation is 3% doneSimulation is 3% doneSimulation is 2% doneSimulation is 4% doneSimulation is 4% doneSimulation is 4% doneSimulation is 4% doneSimulation is 3% doneSimulation is 5% doneSimulation is 5% doneSimulation is 5% doneSimulation is 5% doneSimulation is 4% doneSimulation is 6% doneSimulation is 6% doneSimulation is 6% doneSimulation is 6% doneSimulation is 5% doneSimulation is 7% doneSimulation is 7% doneSimulation is 7% doneSimulation is 7% doneSimulation is 6% doneSimulation is 8% doneSimulation is 8% doneSimulation is 8% doneSimulation is 8% doneSimulation is 7% doneSimulation is 9% doneSimulation is 9% doneSimulation is 9% doneSimulation is 9% doneSimulation is 8% doneSimulation is 10% doneSimulation is 10% doneSimulation is 10% doneSimulation is 11% doneSimulation is 10% doneSimulation is 11% doneSimulation is 11% doneSimulation is 12% doneSimulation is 9% doneSimulation is 11% doneSimulation is 12% doneSimulation is 12% doneSimulation is 13% doneSimulation is 12% doneSimulation is 10% doneSimulation is 13% doneSimulation is 14% doneSimulation is 13% doneSimulation is 13% doneSimulation is 11% doneSimulation is 14% doneSimulation is 15% doneSimulation is 14% doneSimulation is 14% doneSimulation is 12% doneSimulation is 15% doneSimulation is 16% doneSimulation is 15% doneSimulation is 15% doneSimulation is 13% doneSimulation is 1% doneSimulation is 16% doneSimulation is 1% doneSimulation is 17% doneSimulation is 16% doneSimulation is 16% doneSimulation is 14% doneSimulation is 2% doneSimulation is 17% doneSimulation is 2% doneSimulation is 18% doneSimulation is 17% doneSimulation is 17% doneSimulation is 15% doneSimulation is 3% doneSimulation is 1% doneSimulation is 18% doneSimulation is 3% doneSimulation is 19% doneSimulation is 18% doneSimulation is 1% doneSimulation is 18% doneSimulation is 16% doneSimulation is 4% doneSimulation is 1% doneSimulation is 2% doneSimulation is 1% doneSimulation is 19% doneSimulation is 4% doneSimulation is 1% doneSimulation is 1% doneSimulation is 20% doneSimulation is 19% doneSimulation is 2% doneSimulation is 19% doneSimulation is 17% doneSimulation is 1% doneSimulation is 5% doneSimulation is 2% doneSimulation is 3% doneSimulation is 2% doneSimulation is 20% doneSimulation is 5% doneSimulation is 1% doneSimulation is 2% doneSimulation is 2% doneSimulation is 21% doneSimulation is 20% doneSimulation is 1% doneSimulation is 1% doneSimulation is 3% doneSimulation is 20% doneSimulation is 1% doneSimulation is 1% doneSimulation is 2% doneSimulation is 6% doneSimulation is 18% doneSimulation is 4% doneSimulation is 3% doneSimulation is 3% doneSimulation is 21% doneSimulation is 6% doneSimulation is 2% doneSimulation is 3% doneSimulation is 1% doneSimulation is 3% doneSimulation is 22% doneSimulation is 21% doneSimulation is 2% doneSimulation is 2% doneSimulation is 21% doneSimulation is 4% doneSimulation is 2% doneSimulation is 3% doneSimulation is 2% doneSimulation is 7% doneSimulation is 5% doneSimulation is 19% doneSimulation is 4% doneSimulation is 4% doneSimulation is 7% doneSimulation is 22% doneSimulation is 3% doneSimulation is 2% doneSimulation is 4% doneSimulation is 4% doneSimulation is 22% doneSimulation is 23% doneSimulation is 3% doneSimulation is 3% doneSimulation is 22% doneSimulation is 3% doneSimulation is 5% doneSimulation is 4% doneSimulation is 3% doneSimulation is 8% doneSimulation is 6% doneSimulation is 20% doneSimulation is 5% doneSimulation is 8% doneSimulation is 5% doneSimulation is 23% doneSimulation is 4% doneSimulation is 3% doneSimulation is 5% doneSimulation is 5% doneSimulation is 23% doneSimulation is 24% doneSimulation is 4% doneSimulation is 4% doneSimulation is 4% doneSimulation is 23% doneSimulation is 5% doneSimulation is 6% doneSimulation is 4% doneSimulation is 9% doneSimulation is 7% doneSimulation is 21% doneSimulation is 6% doneSimulation is 9% doneSimulation is 24% doneSimulation is 6% doneSimulation is 4% doneSimulation is 5% doneSimulation is 6% doneSimulation is 6% doneSimulation is 25% doneSimulation is 24% doneSimulation is 5% doneSimulation is 5% doneSimulation is 5% doneSimulation is 6% doneSimulation is 24% doneSimulation is 10% doneSimulation is 8% doneSimulation is 5% doneSimulation is 7% doneSimulation is 10% doneSimulation is 7% doneSimulation is 22% doneSimulation is 25% doneSimulation is 7% doneSimulation is 5% doneSimulation is 7% doneSimulation is 6% doneSimulation is 7% doneSimulation is 26% doneSimulation is 25% doneSimulation is 6% doneSimulation is 6% doneSimulation is 6% doneSimulation is 7% doneSimulation is 25% doneSimulation is 11% doneSimulation is 9% doneSimulation is 6% doneSimulation is 8% doneSimulation is 11% doneSimulation is 8% doneSimulation is 26% doneSimulation is 23% doneSimulation is 8% doneSimulation is 6% doneSimulation is 8% doneSimulation is 7% doneSimulation is 26% doneSimulation is 27% doneSimulation is 8% doneSimulation is 7% doneSimulation is 7% doneSimulation is 7% doneSimulation is 8% doneSimulation is 26% doneSimulation is 12% doneSimulation is 10% doneSimulation is 7% doneSimulation is 12% doneSimulation is 9% doneSimulation is 9% doneSimulation is 27% doneSimulation is 24% doneSimulation is 9% doneSimulation is 7% doneSimulation is 9% doneSimulation is 8% doneSimulation is 27% doneSimulation is 28% doneSimulation is 9% doneSimulation is 8% doneSimulation is 8% doneSimulation is 8% doneSimulation is 9% doneSimulation is 27% doneSimulation is 11% doneSimulation is 13% doneSimulation is 8% doneSimulation is 13% doneSimulation is 10% doneSimulation is 10% doneSimulation is 28% doneSimulation is 25% doneSimulation is 10% doneSimulation is 8% doneSimulation is 10% doneSimulation is 28% doneSimulation is 29% doneSimulation is 9% doneSimulation is 10% doneSimulation is 9% doneSimulation is 9% doneSimulation is 9% doneSimulation is 10% doneSimulation is 12% doneSimulation is 28% doneSimulation is 14% doneSimulation is 14% doneSimulation is 9% doneSimulation is 11% doneSimulation is 11% doneSimulation is 29% doneSimulation is 26% doneSimulation is 11% doneSimulation is 9% doneSimulation is 11% doneSimulation is 29% doneSimulation is 30% doneSimulation is 10% doneSimulation is 11% doneSimulation is 10% doneSimulation is 10% doneSimulation is 11% doneSimulation is 10% doneSimulation is 13% doneSimulation is 15% doneSimulation is 29% doneSimulation is 15% doneSimulation is 10% doneSimulation is 12% doneSimulation is 12% doneSimulation is 30% doneSimulation is 27% doneSimulation is 10% doneSimulation is 12% doneSimulation is 12% doneSimulation is 31% doneSimulation is 30% doneSimulation is 12% doneSimulation is 11% doneSimulation is 11% doneSimulation is 11% doneSimulation is 12% doneSimulation is 11% doneSimulation is 14% doneSimulation is 16% doneSimulation is 30% doneSimulation is 16% doneSimulation is 11% doneSimulation is 13% doneSimulation is 13% doneSimulation is 31% doneSimulation is 28% doneSimulation is 11% doneSimulation is 13% doneSimulation is 13% doneSimulation is 32% doneSimulation is 31% doneSimulation is 13% doneSimulation is 12% doneSimulation is 12% doneSimulation is 12% doneSimulation is 13% doneSimulation is 15% doneSimulation is 12% doneSimulation is 17% doneSimulation is 31% doneSimulation is 17% doneSimulation is 12% doneSimulation is 14% doneSimulation is 14% doneSimulation is 32% doneSimulation is 12% doneSimulation is 29% doneSimulation is 14% doneSimulation is 33% doneSimulation is 32% doneSimulation is 14% doneSimulation is 14% doneSimulation is 13% doneSimulation is 13% doneSimulation is 13% doneSimulation is 14% doneSimulation is 16% doneSimulation is 13% doneSimulation is 18% doneSimulation is 32% doneSimulation is 18% doneSimulation is 13% doneSimulation is 15% doneSimulation is 15% doneSimulation is 33% doneSimulation is 13% doneSimulation is 30% doneSimulation is 33% doneSimulation is 34% doneSimulation is 15% doneSimulation is 15% doneSimulation is 15% doneSimulation is 14% doneSimulation is 14% doneSimulation is 14% doneSimulation is 15% doneSimulation is 17% doneSimulation is 14% doneSimulation is 19% doneSimulation is 33% doneSimulation is 19% doneSimulation is 14% doneSimulation is 16% doneSimulation is 16% doneSimulation is 34% doneSimulation is 14% doneSimulation is 34% doneSimulation is 35% doneSimulation is 31% doneSimulation is 16% doneSimulation is 16% doneSimulation is 16% doneSimulation is 15% doneSimulation is 15% doneSimulation is 15% doneSimulation is 16% doneSimulation is 18% doneSimulation is 15% doneSimulation is 20% doneSimulation is 34% doneSimulation is 20% doneSimulation is 15% doneSimulation is 17% doneSimulation is 17% doneSimulation is 35% doneSimulation is 15% doneSimulation is 35% doneSimulation is 36% doneSimulation is 32% doneSimulation is 17% doneSimulation is 17% doneSimulation is 17% doneSimulation is 16% doneSimulation is 16% doneSimulation is 16% doneSimulation is 17% doneSimulation is 19% doneSimulation is 21% doneSimulation is 35% doneSimulation is 16% doneSimulation is 21% doneSimulation is 16% doneSimulation is 18% doneSimulation is 36% doneSimulation is 18% doneSimulation is 16% doneSimulation is 37% doneSimulation is 36% doneSimulation is 33% doneSimulation is 18% doneSimulation is 18% doneSimulation is 18% doneSimulation is 17% doneSimulation is 17% doneSimulation is 17% doneSimulation is 18% doneSimulation is 20% doneSimulation is 22% doneSimulation is 36% doneSimulation is 22% doneSimulation is 17% doneSimulation is 17% doneSimulation is 19% doneSimulation is 37% doneSimulation is 19% doneSimulation is 38% doneSimulation is 37% doneSimulation is 17% doneSimulation is 34% doneSimulation is 19% doneSimulation is 19% doneSimulation is 19% doneSimulation is 18% doneSimulation is 18% doneSimulation is 18% doneSimulation is 19% doneSimulation is 21% doneSimulation is 23% doneSimulation is 37% doneSimulation is 23% doneSimulation is 18% doneSimulation is 18% doneSimulation is 38% doneSimulation is 20% doneSimulation is 39% doneSimulation is 20% doneSimulation is 38% doneSimulation is 18% doneSimulation is 35% doneSimulation is 20% doneSimulation is 20% doneSimulation is 20% doneSimulation is 19% doneSimulation is 19% doneSimulation is 19% doneSimulation is 20% doneSimulation is 22% doneSimulation is 38% doneSimulation is 24% doneSimulation is 24% doneSimulation is 19% doneSimulation is 19% doneSimulation is 39% doneSimulation is 21% doneSimulation is 40% doneSimulation is 39% doneSimulation is 21% doneSimulation is 19% doneSimulation is 36% doneSimulation is 21% doneSimulation is 21% doneSimulation is 20% doneSimulation is 21% doneSimulation is 20% doneSimulation is 20% doneSimulation is 21% doneSimulation is 23% doneSimulation is 39% doneSimulation is 25% doneSimulation is 25% doneSimulation is 20% doneSimulation is 20% doneSimulation is 40% doneSimulation is 22% doneSimulation is 41% doneSimulation is 40% doneSimulation is 22% doneSimulation is 20% doneSimulation is 37% doneSimulation is 22% doneSimulation is 22% doneSimulation is 21% doneSimulation is 21% doneSimulation is 22% doneSimulation is 22% doneSimulation is 21% doneSimulation is 24% doneSimulation is 40% doneSimulation is 26% doneSimulation is 26% doneSimulation is 21% doneSimulation is 21% doneSimulation is 41% doneSimulation is 42% doneSimulation is 41% doneSimulation is 23% doneSimulation is 23% doneSimulation is 21% doneSimulation is 38% doneSimulation is 23% doneSimulation is 23% doneSimulation is 22% doneSimulation is 22% doneSimulation is 23% doneSimulation is 23% doneSimulation is 25% doneSimulation is 22% doneSimulation is 41% doneSimulation is 27% doneSimulation is 27% doneSimulation is 22% doneSimulation is 22% doneSimulation is 43% doneSimulation is 42% doneSimulation is 42% doneSimulation is 24% doneSimulation is 22% doneSimulation is 24% doneSimulation is 39% doneSimulation is 24% doneSimulation is 23% doneSimulation is 24% doneSimulation is 23% doneSimulation is 24% doneSimulation is 26% doneSimulation is 24% doneSimulation is 23% doneSimulation is 28% doneSimulation is 42% doneSimulation is 28% doneSimulation is 23% doneSimulation is 44% doneSimulation is 23% doneSimulation is 43% doneSimulation is 43% doneSimulation is 25% doneSimulation is 23% doneSimulation is 25% doneSimulation is 40% doneSimulation is 25% doneSimulation is 24% doneSimulation is 24% doneSimulation is 25% doneSimulation is 25% doneSimulation is 27% doneSimulation is 25% doneSimulation is 24% doneSimulation is 29% doneSimulation is 43% doneSimulation is 29% doneSimulation is 45% doneSimulation is 44% doneSimulation is 24% doneSimulation is 24% doneSimulation is 44% doneSimulation is 26% doneSimulation is 24% doneSimulation is 26% doneSimulation is 41% doneSimulation is 26% doneSimulation is 25% doneSimulation is 25% doneSimulation is 26% doneSimulation is 26% doneSimulation is 28% doneSimulation is 26% doneSimulation is 44% doneSimulation is 30% doneSimulation is 25% doneSimulation is 30% doneSimulation is 46% doneSimulation is 25% doneSimulation is 45% doneSimulation is 45% doneSimulation is 25% doneSimulation is 27% doneSimulation is 25% doneSimulation is 27% doneSimulation is 42% doneSimulation is 27% doneSimulation is 26% doneSimulation is 26% doneSimulation is 27% doneSimulation is 27% doneSimulation is 29% doneSimulation is 31% doneSimulation is 27% doneSimulation is 45% doneSimulation is 26% doneSimulation is 31% doneSimulation is 47% doneSimulation is 46% doneSimulation is 26% doneSimulation is 26% doneSimulation is 46% doneSimulation is 28% doneSimulation is 26% doneSimulation is 28% doneSimulation is 28% doneSimulation is 43% doneSimulation is 27% doneSimulation is 27% doneSimulation is 28% doneSimulation is 28% doneSimulation is 30% doneSimulation is 32% doneSimulation is 28% doneSimulation is 46% doneSimulation is 27% doneSimulation is 32% doneSimulation is 47% doneSimulation is 48% doneSimulation is 27% doneSimulation is 47% doneSimulation is 27% doneSimulation is 29% doneSimulation is 27% doneSimulation is 29% doneSimulation is 29% doneSimulation is 28% doneSimulation is 44% doneSimulation is 28% doneSimulation is 29% doneSimulation is 31% doneSimulation is 29% doneSimulation is 33% doneSimulation is 47% doneSimulation is 29% doneSimulation is 28% doneSimulation is 33% doneSimulation is 48% doneSimulation is 49% doneSimulation is 48% doneSimulation is 28% doneSimulation is 28% doneSimulation is 30% doneSimulation is 28% doneSimulation is 30% doneSimulation is 30% doneSimulation is 29% doneSimulation is 45% doneSimulation is 29% doneSimulation is 30% doneSimulation is 32% doneSimulation is 30% doneSimulation is 34% doneSimulation is 48% doneSimulation is 29% doneSimulation is 34% doneSimulation is 30% doneSimulation is 49% doneSimulation is 50% doneSimulation is 49% doneSimulation is 29% doneSimulation is 29% doneSimulation is 31% doneSimulation is 29% doneSimulation is 31% doneSimulation is 31% doneSimulation is 30% doneSimulation is 31% doneSimulation is 30% doneSimulation is 46% doneSimulation is 33% doneSimulation is 31% doneSimulation is 35% doneSimulation is 49% doneSimulation is 35% doneSimulation is 30% doneSimulation is 31% doneSimulation is 50% doneSimulation is 51% doneSimulation is 50% doneSimulation is 30% doneSimulation is 30% doneSimulation is 32% doneSimulation is 30% doneSimulation is 31% doneSimulation is 32% doneSimulation is 32% doneSimulation is 32% doneSimulation is 31% doneSimulation is 34% doneSimulation is 47% doneSimulation is 32% doneSimulation is 36% doneSimulation is 50% doneSimulation is 36% doneSimulation is 51% doneSimulation is 52% doneSimulation is 31% doneSimulation is 32% doneSimulation is 51% doneSimulation is 31% doneSimulation is 31% doneSimulation is 33% doneSimulation is 31% doneSimulation is 32% doneSimulation is 33% doneSimulation is 33% doneSimulation is 33% doneSimulation is 35% doneSimulation is 32% doneSimulation is 48% doneSimulation is 37% doneSimulation is 33% doneSimulation is 51% doneSimulation is 37% doneSimulation is 52% doneSimulation is 53% doneSimulation is 32% doneSimulation is 33% doneSimulation is 52% doneSimulation is 32% doneSimulation is 34% doneSimulation is 32% doneSimulation is 32% doneSimulation is 33% doneSimulation is 34% doneSimulation is 34% doneSimulation is 34% doneSimulation is 36% doneSimulation is 33% doneSimulation is 49% doneSimulation is 38% doneSimulation is 34% doneSimulation is 52% doneSimulation is 53% doneSimulation is 54% doneSimulation is 38% doneSimulation is 33% doneSimulation is 34% doneSimulation is 53% doneSimulation is 33% doneSimulation is 35% doneSimulation is 33% doneSimulation is 33% doneSimulation is 34% doneSimulation is 35% doneSimulation is 35% doneSimulation is 37% doneSimulation is 34% doneSimulation is 35% doneSimulation is 50% doneSimulation is 39% doneSimulation is 53% doneSimulation is 35% doneSimulation is 54% doneSimulation is 55% doneSimulation is 39% doneSimulation is 34% doneSimulation is 35% doneSimulation is 54% doneSimulation is 34% doneSimulation is 36% doneSimulation is 34% doneSimulation is 34% doneSimulation is 35% doneSimulation is 36% doneSimulation is 38% doneSimulation is 36% doneSimulation is 35% doneSimulation is 36% doneSimulation is 51% doneSimulation is 40% doneSimulation is 54% doneSimulation is 36% doneSimulation is 55% doneSimulation is 56% doneSimulation is 40% doneSimulation is 35% doneSimulation is 55% doneSimulation is 36% doneSimulation is 35% doneSimulation is 37% doneSimulation is 35% doneSimulation is 35% doneSimulation is 36% doneSimulation is 39% doneSimulation is 37% doneSimulation is 37% doneSimulation is 36% doneSimulation is 37% doneSimulation is 41% doneSimulation is 52% doneSimulation is 55% doneSimulation is 37% doneSimulation is 56% doneSimulation is 57% doneSimulation is 41% doneSimulation is 36% doneSimulation is 56% doneSimulation is 37% doneSimulation is 36% doneSimulation is 38% doneSimulation is 36% doneSimulation is 36% doneSimulation is 37% doneSimulation is 38% doneSimulation is 40% doneSimulation is 38% doneSimulation is 37% doneSimulation is 38% doneSimulation is 42% doneSimulation is 53% doneSimulation is 56% doneSimulation is 57% doneSimulation is 58% doneSimulation is 38% doneSimulation is 42% doneSimulation is 57% doneSimulation is 37% doneSimulation is 38% doneSimulation is 39% doneSimulation is 37% doneSimulation is 37% doneSimulation is 37% doneSimulation is 38% doneSimulation is 39% doneSimulation is 41% doneSimulation is 39% doneSimulation is 38% doneSimulation is 43% doneSimulation is 39% doneSimulation is 54% doneSimulation is 57% doneSimulation is 58% doneSimulation is 59% doneSimulation is 39% doneSimulation is 43% doneSimulation is 58% doneSimulation is 38% doneSimulation is 39% doneSimulation is 40% doneSimulation is 38% doneSimulation is 38% doneSimulation is 38% doneSimulation is 39% doneSimulation is 40% doneSimulation is 42% doneSimulation is 40% doneSimulation is 39% doneSimulation is 40% doneSimulation is 44% doneSimulation is 55% doneSimulation is 58% doneSimulation is 59% doneSimulation is 60% doneSimulation is 40% doneSimulation is 44% doneSimulation is 59% doneSimulation is 39% doneSimulation is 40% doneSimulation is 41% doneSimulation is 39% doneSimulation is 39% doneSimulation is 41% doneSimulation is 39% doneSimulation is 40% doneSimulation is 43% doneSimulation is 41% doneSimulation is 40% doneSimulation is 45% doneSimulation is 41% doneSimulation is 56% doneSimulation is 60% doneSimulation is 59% doneSimulation is 61% doneSimulation is 41% doneSimulation is 45% doneSimulation is 40% doneSimulation is 60% doneSimulation is 41% doneSimulation is 42% doneSimulation is 40% doneSimulation is 42% doneSimulation is 40% doneSimulation is 41% doneSimulation is 44% doneSimulation is 40% doneSimulation is 42% doneSimulation is 41% doneSimulation is 46% doneSimulation is 42% doneSimulation is 61% doneSimulation is 60% doneSimulation is 57% doneSimulation is 62% doneSimulation is 42% doneSimulation is 46% doneSimulation is 41% doneSimulation is 61% doneSimulation is 42% doneSimulation is 43% doneSimulation is 41% doneSimulation is 43% doneSimulation is 41% doneSimulation is 42% doneSimulation is 41% doneSimulation is 45% doneSimulation is 42% doneSimulation is 43% doneSimulation is 47% doneSimulation is 62% doneSimulation is 61% doneSimulation is 63% doneSimulation is 58% doneSimulation is 43% doneSimulation is 47% doneSimulation is 43% doneSimulation is 42% doneSimulation is 62% doneSimulation is 42% doneSimulation is 44% doneSimulation is 44% doneSimulation is 43% doneSimulation is 43% doneSimulation is 42% doneSimulation is 46% doneSimulation is 42% doneSimulation is 43% doneSimulation is 44% doneSimulation is 48% doneSimulation is 63% doneSimulation is 64% doneSimulation is 62% doneSimulation is 59% doneSimulation is 44% doneSimulation is 48% doneSimulation is 44% doneSimulation is 63% doneSimulation is 43% doneSimulation is 45% doneSimulation is 45% doneSimulation is 44% doneSimulation is 43% doneSimulation is 43% doneSimulation is 47% doneSimulation is 44% doneSimulation is 43% doneSimulation is 44% doneSimulation is 45% doneSimulation is 49% doneSimulation is 64% doneSimulation is 65% doneSimulation is 63% doneSimulation is 60% doneSimulation is 45% doneSimulation is 49% doneSimulation is 45% doneSimulation is 64% doneSimulation is 44% doneSimulation is 46% doneSimulation is 46% doneSimulation is 45% doneSimulation is 48% doneSimulation is 44% doneSimulation is 45% doneSimulation is 44% doneSimulation is 44% doneSimulation is 45% doneSimulation is 46% doneSimulation is 50% doneSimulation is 65% doneSimulation is 66% doneSimulation is 64% doneSimulation is 46% doneSimulation is 61% doneSimulation is 50% doneSimulation is 46% doneSimulation is 47% doneSimulation is 65% doneSimulation is 45% doneSimulation is 47% doneSimulation is 46% doneSimulation is 49% doneSimulation is 45% doneSimulation is 45% doneSimulation is 46% doneSimulation is 46% doneSimulation is 45% doneSimulation is 47% doneSimulation is 51% doneSimulation is 66% doneSimulation is 67% doneSimulation is 65% doneSimulation is 47% doneSimulation is 62% doneSimulation is 51% doneSimulation is 47% doneSimulation is 48% doneSimulation is 66% doneSimulation is 46% doneSimulation is 47% doneSimulation is 50% doneSimulation is 48% doneSimulation is 46% doneSimulation is 46% doneSimulation is 47% doneSimulation is 47% doneSimulation is 46% doneSimulation is 52% doneSimulation is 48% doneSimulation is 67% doneSimulation is 68% doneSimulation is 66% doneSimulation is 52% doneSimulation is 63% doneSimulation is 48% doneSimulation is 48% doneSimulation is 49% doneSimulation is 67% doneSimulation is 51% doneSimulation is 48% doneSimulation is 47% doneSimulation is 49% doneSimulation is 47% doneSimulation is 47% doneSimulation is 48% doneSimulation is 48% doneSimulation is 53% doneSimulation is 49% doneSimulation is 47% doneSimulation is 68% doneSimulation is 69% doneSimulation is 67% doneSimulation is 53% doneSimulation is 64% doneSimulation is 49% doneSimulation is 49% doneSimulation is 50% doneSimulation is 52% doneSimulation is 68% doneSimulation is 49% doneSimulation is 50% doneSimulation is 48% doneSimulation is 48% doneSimulation is 48% doneSimulation is 49% doneSimulation is 49% doneSimulation is 54% doneSimulation is 50% doneSimulation is 69% doneSimulation is 48% doneSimulation is 70% doneSimulation is 68% doneSimulation is 54% doneSimulation is 65% doneSimulation is 50% doneSimulation is 50% doneSimulation is 51% doneSimulation is 53% doneSimulation is 50% doneSimulation is 69% doneSimulation is 51% doneSimulation is 49% doneSimulation is 49% doneSimulation is 49% doneSimulation is 50% doneSimulation is 55% doneSimulation is 50% doneSimulation is 51% doneSimulation is 70% doneSimulation is 71% doneSimulation is 49% doneSimulation is 55% doneSimulation is 69% doneSimulation is 66% doneSimulation is 51% doneSimulation is 51% doneSimulation is 52% doneSimulation is 54% doneSimulation is 51% doneSimulation is 70% doneSimulation is 52% doneSimulation is 50% doneSimulation is 50% doneSimulation is 50% doneSimulation is 51% doneSimulation is 56% doneSimulation is 52% doneSimulation is 51% doneSimulation is 71% doneSimulation is 72% doneSimulation is 50% doneSimulation is 56% doneSimulation is 70% doneSimulation is 52% doneSimulation is 67% doneSimulation is 52% doneSimulation is 53% doneSimulation is 55% doneSimulation is 52% doneSimulation is 53% doneSimulation is 71% doneSimulation is 51% doneSimulation is 51% doneSimulation is 51% doneSimulation is 57% doneSimulation is 52% doneSimulation is 53% doneSimulation is 72% doneSimulation is 52% doneSimulation is 73% doneSimulation is 51% doneSimulation is 57% doneSimulation is 71% doneSimulation is 53% doneSimulation is 68% doneSimulation is 53% doneSimulation is 54% doneSimulation is 56% doneSimulation is 53% doneSimulation is 54% doneSimulation is 72% doneSimulation is 52% doneSimulation is 52% doneSimulation is 58% doneSimulation is 52% doneSimulation is 53% doneSimulation is 54% doneSimulation is 73% doneSimulation is 74% doneSimulation is 53% doneSimulation is 52% doneSimulation is 58% doneSimulation is 72% doneSimulation is 54% doneSimulation is 69% doneSimulation is 54% doneSimulation is 55% doneSimulation is 57% doneSimulation is 54% doneSimulation is 55% doneSimulation is 73% doneSimulation is 53% doneSimulation is 59% doneSimulation is 53% doneSimulation is 53% doneSimulation is 54% doneSimulation is 55% doneSimulation is 74% doneSimulation is 75% doneSimulation is 54% doneSimulation is 53% doneSimulation is 59% doneSimulation is 73% doneSimulation is 55% doneSimulation is 70% doneSimulation is 55% doneSimulation is 56% doneSimulation is 58% doneSimulation is 55% doneSimulation is 56% doneSimulation is 74% doneSimulation is 54% doneSimulation is 60% doneSimulation is 55% doneSimulation is 54% doneSimulation is 54% doneSimulation is 75% doneSimulation is 56% doneSimulation is 76% doneSimulation is 55% doneSimulation is 54% doneSimulation is 60% doneSimulation is 74% doneSimulation is 71% doneSimulation is 56% doneSimulation is 56% doneSimulation is 57% doneSimulation is 59% doneSimulation is 56% doneSimulation is 57% doneSimulation is 75% doneSimulation is 55% doneSimulation is 61% doneSimulation is 56% doneSimulation is 76% doneSimulation is 55% doneSimulation is 55% doneSimulation is 57% doneSimulation is 77% doneSimulation is 55% doneSimulation is 56% doneSimulation is 61% doneSimulation is 75% doneSimulation is 72% doneSimulation is 57% doneSimulation is 57% doneSimulation is 58% doneSimulation is 60% doneSimulation is 57% doneSimulation is 58% doneSimulation is 76% doneSimulation is 56% doneSimulation is 62% doneSimulation is 57% doneSimulation is 77% doneSimulation is 56% doneSimulation is 78% doneSimulation is 58% doneSimulation is 56% doneSimulation is 56% doneSimulation is 57% doneSimulation is 62% doneSimulation is 76% doneSimulation is 73% doneSimulation is 58% doneSimulation is 58% doneSimulation is 59% doneSimulation is 58% doneSimulation is 61% doneSimulation is 59% doneSimulation is 77% doneSimulation is 63% doneSimulation is 57% doneSimulation is 58% doneSimulation is 79% doneSimulation is 78% doneSimulation is 57% doneSimulation is 57% doneSimulation is 59% doneSimulation is 57% doneSimulation is 58% doneSimulation is 63% doneSimulation is 77% doneSimulation is 74% doneSimulation is 59% doneSimulation is 59% doneSimulation is 60% doneSimulation is 62% doneSimulation is 59% doneSimulation is 60% doneSimulation is 78% doneSimulation is 64% doneSimulation is 58% doneSimulation is 59% doneSimulation is 80% doneSimulation is 79% doneSimulation is 58% doneSimulation is 58% doneSimulation is 60% doneSimulation is 58% doneSimulation is 64% doneSimulation is 59% doneSimulation is 78% doneSimulation is 75% doneSimulation is 60% doneSimulation is 61% doneSimulation is 60% doneSimulation is 63% doneSimulation is 60% doneSimulation is 61% doneSimulation is 79% doneSimulation is 65% doneSimulation is 81% doneSimulation is 60% doneSimulation is 59% doneSimulation is 80% doneSimulation is 59% doneSimulation is 61% doneSimulation is 59% doneSimulation is 59% doneSimulation is 65% doneSimulation is 60% doneSimulation is 79% doneSimulation is 76% doneSimulation is 62% doneSimulation is 61% doneSimulation is 61% doneSimulation is 61% doneSimulation is 64% doneSimulation is 62% doneSimulation is 66% doneSimulation is 80% doneSimulation is 82% doneSimulation is 61% doneSimulation is 81% doneSimulation is 60% doneSimulation is 62% doneSimulation is 60% doneSimulation is 60% doneSimulation is 66% doneSimulation is 60% doneSimulation is 61% doneSimulation is 80% doneSimulation is 77% doneSimulation is 63% doneSimulation is 62% doneSimulation is 62% doneSimulation is 62% doneSimulation is 65% doneSimulation is 83% doneSimulation is 67% doneSimulation is 63% doneSimulation is 81% doneSimulation is 82% doneSimulation is 62% doneSimulation is 61% doneSimulation is 63% doneSimulation is 61% doneSimulation is 61% doneSimulation is 67% doneSimulation is 61% doneSimulation is 62% doneSimulation is 81% doneSimulation is 78% doneSimulation is 64% doneSimulation is 63% doneSimulation is 63% doneSimulation is 66% doneSimulation is 63% doneSimulation is 84% doneSimulation is 83% doneSimulation is 68% doneSimulation is 82% doneSimulation is 64% doneSimulation is 63% doneSimulation is 62% doneSimulation is 64% doneSimulation is 62% doneSimulation is 62% doneSimulation is 68% doneSimulation is 62% doneSimulation is 82% doneSimulation is 63% doneSimulation is 79% doneSimulation is 65% doneSimulation is 64% doneSimulation is 67% doneSimulation is 64% doneSimulation is 64% doneSimulation is 85% doneSimulation is 84% doneSimulation is 69% doneSimulation is 83% doneSimulation is 65% doneSimulation is 64% doneSimulation is 63% doneSimulation is 65% doneSimulation is 63% doneSimulation is 63% doneSimulation is 69% doneSimulation is 63% doneSimulation is 83% doneSimulation is 64% doneSimulation is 80% doneSimulation is 66% doneSimulation is 68% doneSimulation is 65% doneSimulation is 65% doneSimulation is 65% doneSimulation is 86% doneSimulation is 85% doneSimulation is 70% doneSimulation is 66% doneSimulation is 65% doneSimulation is 84% doneSimulation is 64% doneSimulation is 66% doneSimulation is 64% doneSimulation is 64% doneSimulation is 70% doneSimulation is 64% doneSimulation is 84% doneSimulation is 67% doneSimulation is 81% doneSimulation is 65% doneSimulation is 66% doneSimulation is 66% doneSimulation is 69% doneSimulation is 66% doneSimulation is 87% doneSimulation is 86% doneSimulation is 71% doneSimulation is 66% doneSimulation is 67% doneSimulation is 85% doneSimulation is 65% doneSimulation is 67% doneSimulation is 65% doneSimulation is 65% doneSimulation is 71% doneSimulation is 85% doneSimulation is 65% doneSimulation is 68% doneSimulation is 82% doneSimulation is 66% doneSimulation is 67% doneSimulation is 67% doneSimulation is 70% doneSimulation is 88% doneSimulation is 67% doneSimulation is 87% doneSimulation is 72% doneSimulation is 67% doneSimulation is 68% doneSimulation is 86% doneSimulation is 66% doneSimulation is 68% doneSimulation is 66% doneSimulation is 66% doneSimulation is 72% doneSimulation is 86% doneSimulation is 66% doneSimulation is 83% doneSimulation is 69% doneSimulation is 67% doneSimulation is 68% doneSimulation is 71% doneSimulation is 68% doneSimulation is 89% doneSimulation is 68% doneSimulation is 88% doneSimulation is 73% doneSimulation is 68% doneSimulation is 69% doneSimulation is 87% doneSimulation is 67% doneSimulation is 69% doneSimulation is 67% doneSimulation is 67% doneSimulation is 73% doneSimulation is 87% doneSimulation is 67% doneSimulation is 70% doneSimulation is 84% doneSimulation is 69% doneSimulation is 72% doneSimulation is 68% doneSimulation is 69% doneSimulation is 90% doneSimulation is 89% doneSimulation is 74% doneSimulation is 69% doneSimulation is 69% doneSimulation is 70% doneSimulation is 68% doneSimulation is 88% doneSimulation is 70% doneSimulation is 68% doneSimulation is 74% doneSimulation is 68% doneSimulation is 88% doneSimulation is 71% doneSimulation is 68% doneSimulation is 85% doneSimulation is 70% doneSimulation is 73% doneSimulation is 91% doneSimulation is 69% doneSimulation is 70% doneSimulation is 90% doneSimulation is 75% doneSimulation is 70% doneSimulation is 70% doneSimulation is 69% doneSimulation is 89% doneSimulation is 71% doneSimulation is 71% doneSimulation is 69% doneSimulation is 75% doneSimulation is 69% doneSimulation is 72% doneSimulation is 89% doneSimulation is 86% doneSimulation is 71% doneSimulation is 69% doneSimulation is 74% doneSimulation is 92% doneSimulation is 71% doneSimulation is 70% doneSimulation is 91% doneSimulation is 76% doneSimulation is 71% doneSimulation is 71% doneSimulation is 70% doneSimulation is 72% doneSimulation is 90% doneSimulation is 72% doneSimulation is 70% doneSimulation is 76% doneSimulation is 73% doneSimulation is 70% doneSimulation is 90% doneSimulation is 87% doneSimulation is 75% doneSimulation is 72% doneSimulation is 70% doneSimulation is 93% doneSimulation is 72% doneSimulation is 92% doneSimulation is 71% doneSimulation is 77% doneSimulation is 72% doneSimulation is 72% doneSimulation is 73% doneSimulation is 71% doneSimulation is 91% doneSimulation is 73% doneSimulation is 71% doneSimulation is 77% doneSimulation is 74% doneSimulation is 71% doneSimulation is 91% doneSimulation is 88% doneSimulation is 76% doneSimulation is 94% doneSimulation is 73% doneSimulation is 71% doneSimulation is 93% doneSimulation is 73% doneSimulation is 78% doneSimulation is 72% doneSimulation is 73% doneSimulation is 73% doneSimulation is 92% doneSimulation is 74% doneSimulation is 72% doneSimulation is 74% doneSimulation is 72% doneSimulation is 78% doneSimulation is 75% doneSimulation is 72% doneSimulation is 92% doneSimulation is 89% doneSimulation is 77% doneSimulation is 95% doneSimulation is 74% doneSimulation is 72% doneSimulation is 94% doneSimulation is 79% doneSimulation is 74% doneSimulation is 73% doneSimulation is 74% doneSimulation is 74% doneSimulation is 73% doneSimulation is 93% doneSimulation is 75% doneSimulation is 75% doneSimulation is 79% doneSimulation is 73% doneSimulation is 76% doneSimulation is 73% doneSimulation is 93% doneSimulation is 96% doneSimulation is 78% doneSimulation is 90% doneSimulation is 75% doneSimulation is 95% doneSimulation is 73% doneSimulation is 80% doneSimulation is 75% doneSimulation is 74% doneSimulation is 75% doneSimulation is 75% doneSimulation is 76% doneSimulation is 94% doneSimulation is 74% doneSimulation is 76% doneSimulation is 80% doneSimulation is 77% doneSimulation is 74% doneSimulation is 97% doneSimulation is 94% doneSimulation is 79% doneSimulation is 74% doneSimulation is 76% doneSimulation is 91% doneSimulation is 96% doneSimulation is 74% doneSimulation is 81% doneSimulation is 76% doneSimulation is 75% doneSimulation is 76% doneSimulation is 76% doneSimulation is 77% doneSimulation is 95% doneSimulation is 75% doneSimulation is 77% doneSimulation is 81% doneSimulation is 78% doneSimulation is 75% doneSimulation is 98% doneSimulation is 80% doneSimulation is 95% doneSimulation is 77% doneSimulation is 97% doneSimulation is 75% doneSimulation is 92% doneSimulation is 82% doneSimulation is 75% doneSimulation is 77% doneSimulation is 77% doneSimulation is 76% doneSimulation is 77% doneSimulation is 96% doneSimulation is 78% doneSimulation is 76% doneSimulation is 78% doneSimulation is 82% doneSimulation is 79% doneSimulation is 76% doneSimulation is 99% doneSimulation is 96% doneSimulation is 81% doneSimulation is 98% doneSimulation is 78% doneSimulation is 76% doneSimulation is 93% doneSimulation is 83% doneSimulation is 76% doneSimulation is 78% doneSimulation is 78% doneSimulation is 77% doneSimulation is 97% doneSimulation is 77% doneSimulation is 79% doneSimulation is 78% doneSimulation is 79% doneSimulation is 83% doneSimulation is 80% doneSimulation is 100% doneSimulation is 77% done
+Dumping results to Simulation.geno
+Simulation is 82% doneSimulation is 97% doneSimulation is 99% doneSimulation is 79% doneSimulation is 94% doneSimulation is 77% doneSimulation is 84% doneSimulation is 77% doneSimulation is 79% doneSimulation is 79% doneSimulation is 78% doneSimulation is 98% doneSimulation is 80% doneSimulation is 78% doneSimulation is 79% doneSimulation is 80% doneSimulation is 84% doneSimulation is 81% doneSimulation is 78% doneSimulation is 83% doneSimulation is 100% doneSimulation is 98% doneSimulation is 80% done
+Dumping results to Simulation.geno
+Simulation is 95% doneSimulation is 85% doneSimulation is 78% doneSimulation is 80% doneSimulation is 78% doneSimulation is 80% doneSimulation is 79% doneSimulation is 99% doneSimulation is 79% doneSimulation is 81% doneSimulation is 80% doneSimulation is 81% doneSimulation is 85% doneSimulation is 82% doneSimulation is 79% doneSimulation is 84% doneSimulation is 81% doneSimulation is 99% doneDumping results to Simulation.ind
+Dumping results to Simulation.snp
+Simulation is 96% doneSimulation is 86% doneSimulation is 79% doneSimulation is 81% doneSimulation is 79% doneSimulation is 81% doneSimulation is 100% doneSimulation is 80% doneSimulation is 80% done
+Dumping results to Simulation.geno
+Simulation is 82% doneSimulation is 81% doneSimulation is 82% doneSimulation is 86% doneSimulation is 83% doneSimulation is 80% doneSimulation is 82% doneSimulation is 85% doneSimulation is 100% done
+Dumping results to Simulation.geno
+Simulation is 97% doneSimulation is 87% doneSimulation is 80% doneSimulation is 82% doneSimulation is 80% doneSimulation is 82% doneSimulation is 83% doneSimulation is 81% doneSimulation is 81% doneDumping results to Simulation.ind
+Simulation is 82% doneSimulation is 83% doneSimulation is 87% doneSimulation is 83% doneSimulation is 86% doneSimulation is 81% doneSimulation is 84% doneSimulation is 98% doneSimulation is 88% doneSimulation is 81% doneSimulation is 83% doneSimulation is 81% doneSimulation is 83% doneSimulation is 82% doneSimulation is 84% doneSimulation is 82% doneSimulation is 83% doneSimulation is 84% doneSimulation is 88% doneSimulation is 84% doneSimulation is 87% doneSimulation is 82% doneDumping results to Simulation.snp
+Simulation is 99% doneSimulation is 89% doneSimulation is 85% doneSimulation is 82% doneSimulation is 84% doneSimulation is 84% doneSimulation is 82% doneSimulation is 83% doneSimulation is 85% doneSimulation is 83% doneSimulation is 84% doneSimulation is 89% doneSimulation is 85% doneSimulation is 85% doneSimulation is 88% doneSimulation is 83% doneSimulation is 100% doneSimulation is 90% done
+Dumping results to Simulation.geno
+Dumping results to Simulation.ind
+Dumping results to Simulation.ancestry
+Simulation is 86% doneSimulation is 83% doneSimulation is 85% doneDumping results to Simulation.ind
+Simulation is 85% doneDumping results to Simulation.snp
+Simulation is 83% doneDumping results to Simulation.snp
+Simulation is 84% doneSimulation is 86% doneSimulation is 84% doneSimulation is 85% doneSimulation is 86% doneSimulation is 90% doneSimulation is 86% doneSimulation is 89% doneSimulation is 91% doneSimulation is 84% doneSimulation is 84% doneSimulation is 86% doneSimulation is 87% doneSimulation is 86% doneSimulation is 84% doneSimulation is 85% doneSimulation is 87% doneSimulation is 85% doneSimulation is 86% doneSimulation is 91% doneSimulation is 87% doneSimulation is 87% doneSimulation is 92% doneSimulation is 90% doneSimulation is 85% doneSimulation is 85% doneSimulation is 87% doneSimulation is 87% doneSimulation is 88% doneSimulation is 85% doneSimulation is 86% doneSimulation is 86% doneSimulation is 88% doneSimulation is 92% doneSimulation is 87% doneSimulation is 88% doneSimulation is 88% doneSimulation is 93% doneSimulation is 91% doneSimulation is 86% doneSimulation is 88% doneSimulation is 86% doneSimulation is 88% doneDumping results to Simulation.ind
+Simulation is 86% doneSimulation is 87% doneSimulation is 89% doneJob done!
+Simulation is 87% doneSimulation is 93% doneSimulation is 89% doneSimulation is 88% doneSimulation is 89% doneSimulation is 89% doneSimulation is 94% doneSimulation is 92% doneSimulation is 87% doneSimulation is 89% doneSimulation is 87% doneSimulation is 89% doneSimulation is 87% doneSimulation is 88% doneSimulation is 90% doneSimulation is 94% doneSimulation is 88% doneSimulation is 89% doneSimulation is 90% doneSimulation is 90% doneSimulation is 90% doneSimulation is 95% doneSimulation is 93% doneSimulation is 88% doneSimulation is 90% doneSimulation is 90% doneSimulation is 88% doneDumping results to Simulation.snp
+Simulation is 89% doneSimulation is 88% doneSimulation is 95% doneSimulation is 91% doneSimulation is 91% doneSimulation is 89% doneSimulation is 90% doneSimulation is 91% doneSimulation is 91% doneSimulation is 96% doneSimulation is 94% doneSimulation is 89% doneSimulation is 91% doneSimulation is 91% doneSimulation is 89% doneSimulation is 90% doneSimulation is 89% doneparameter file: ../../mergeit.par
+Simulation is 96% doneSimulation is 92% doneSimulation is 92% doneSimulation is 91% doneSimulation is 92% doneSimulation is 90% doneSimulation is 97% doneSimulation is 92% doneSimulation is 95% doneSimulation is 90% doneSimulation is 92% doneSimulation is 92% doneSimulation is 90% doneSimulation is 91% doneSimulation is 90% doneSimulation is 97% doneSimulation is 93% doneSimulation is 92% doneSimulation is 93% doneSimulation is 98% doneSimulation is 91% doneSimulation is 93% doneSimulation is 93% doneSimulation is 96% doneSimulation is 91% doneSimulation is 93% doneSimulation is 93% doneSimulation is 91% doneSimulation is 92% doneSimulation is 91% doneSimulation is 98% doneSimulation is 94% doneSimulation is 94% doneSimulation is 99% doneSimulation is 93% doneSimulation is 92% doneSimulation is 94% doneSimulation is 94% doneSimulation is 97% doneSimulation is 92% donegeno1: Simulation.geno
+snp1: Simulation.snp
+ind1: Simulation.ind
+geno2: ../../French_CHB.geno
+snp2: ../../French_CHB.snp
+ind2: ../../French_CHB.ind
+indoutfilename: family.ind
+snpoutfilename: family.snp
+genooutfilename: family.geno
+Simulation is 94% doneSimulation is 94% doneSimulation is 92% doneSimulation is 93% doneSimulation is 92% doneSimulation is 99% doneSimulation is 100% doneSimulation is 95% doneSimulation is 95% done
+Dumping results to Simulation.geno
+Simulation is 94% doneSimulation is 93% doneSimulation is 95% doneSimulation is 98% doneSimulation is 95% doneSimulation is 93% doneSimulation is 95% doneSimulation is 95% doneSimulation is 93% doneSimulation is 94% doneSimulation is 100% doneSimulation is 93% done
+Dumping results to Simulation.geno
+Simulation is 96% doneSimulation is 96% doneSimulation is 95% doneSimulation is 94% doneDumping results to Simulation.ancestry
+Simulation is 96% doneSimulation is 99% doneSimulation is 96% doneSimulation is 94% doneSimulation is 96% doneSimulation is 96% doneSimulation is 94% doneSimulation is 95% doneSimulation is 94% doneSimulation is 97% doneSimulation is 97% doneSimulation is 96% doneSimulation is 95% doneSimulation is 100% done
+Dumping results to Simulation.geno
+Simulation is 97% doneSimulation is 95% doneSimulation is 97% doneSimulation is 97% doneSimulation is 97% doneSimulation is 96% doneSimulation is 95% doneDumping results to Simulation.ancestry
+Simulation is 95% doneSimulation is 98% doneSimulation is 98% doneSimulation is 97% doneDumping results to Simulation.ancestry
+Simulation is 96% doneSimulation is 98% doneSimulation is 96% doneSimulation is 98% doneSimulation is 98% doneSimulation is 98% doneSimulation is 97% doneSimulation is 96% doneSimulation is 96% doneSimulation is 99% doneSimulation is 99% doneDumping results to Simulation.ind
+Simulation is 98% doneSimulation is 97% doneSimulation is 99% doneSimulation is 97% doneSimulation is 99% doneSimulation is 99% doneSimulation is 99% doneSimulation is 98% doneSimulation is 97% doneSimulation is 100% done
+Dumping results to Simulation.geno
+Dumping results to Simulation.ind
+Simulation is 97% doneSimulation is 100% done
+Dumping results to Simulation.geno
+Simulation is 99% doneSimulation is 98% doneJob done!
+Simulation is 98% doneSimulation is 100% doneSimulation is 100% done
+Dumping results to Simulation.geno
+
+Dumping results to Simulation.geno
+Simulation is 100% done
+Dumping results to Simulation.geno
+Dumping results to Simulation.ancestry
+Dumping results to Simulation.snp
+Simulation is 100% done
+Dumping results to Simulation.geno
+Simulation is 99% doneSimulation is 98% doneDumping results to Simulation.ind
+Simulation is 98% doneJob done!
+Dumping results to Simulation.snp
+Dumping results to Simulation.snp
+Simulation is 100% done
+Dumping results to Simulation.geno
+Simulation is 99% doneJob done!
+Simulation is 99% doneSimulation is 100% doneSimulation is 99% done
+Dumping results to Simulation.geno
+Simulation is 99% doneSimulation is 100% done
+Dumping results to Simulation.geno
+Simulation is 100% done
+Dumping results to Simulation.geno
+parameter file: ../../mergeit.par
+Simulation is 100% done
+Dumping results to Simulation.geno
+Simulation is 100% done
+Dumping results to Simulation.geno
+parameter file: ../../mergeit.par
+geno1: Simulation.geno
+snp1: Simulation.snp
+ind1: Simulation.ind
+geno2: ../../French_CHB.geno
+snp2: ../../French_CHB.snp
+ind2: ../../French_CHB.ind
+indoutfilename: family.ind
+snpoutfilename: family.snp
+genooutfilename: family.geno
+parameter file: ../../mergeit.par
+Dumping results to Simulation.ind
+Dumping results to Simulation.ind
+Dumping results to Simulation.ind
+Dumping results to Simulation.ind
+geno1: Simulation.geno
+snp1: Simulation.snp
+ind1: Simulation.ind
+geno2: ../../French_CHB.geno
+snp2: ../../French_CHB.snp
+ind2: ../../French_CHB.ind
+indoutfilename: family.ind
+snpoutfilename: family.snp
+genooutfilename: family.geno
+Dumping results to Simulation.ind
+geno1: Simulation.geno
+snp1: Simulation.snp
+ind1: Simulation.ind
+geno2: ../../French_CHB.geno
+snp2: ../../French_CHB.snp
+ind2: ../../French_CHB.ind
+indoutfilename: family.ind
+snpoutfilename: family.snp
+genooutfilename: family.geno
+Dumping results to Simulation.ind
+Job done!
+Dumping results to Simulation.ind
+Dumping results to Simulation.snp
+Dumping results to Simulation.snp
+Dumping results to Simulation.ind
+Dumping results to Simulation.snp
+Dumping results to Simulation.snp
+Dumping results to Simulation.snp
+Dumping results to Simulation.snp
+Dumping results to Simulation.ind
+Dumping results to Simulation.snp
+Dumping results to Simulation.ind
+Dumping results to Simulation.ind
+parameter file: ../../mergeit.par
+Dumping results to Simulation.ind
+geno1: Simulation.geno
+snp1: Simulation.snp
+ind1: Simulation.ind
+geno2: ../../French_CHB.geno
+snp2: ../../French_CHB.snp
+ind2: ../../French_CHB.ind
+indoutfilename: family.ind
+snpoutfilename: family.snp
+genooutfilename: family.geno
+Dumping results to Simulation.snp
+Dumping results to Simulation.snp
+Dumping results to Simulation.snp
+Dumping results to Simulation.snp
+Dumping results to Simulation.snp
+Dumping results to Simulation.ancestry
+Dumping results to Simulation.ancestry
+Dumping results to Simulation.ancestry
+Job done!
+Job done!
+parameter file: ../../mergeit.par
+geno1: Simulation.geno
+snp1: Simulation.snp
+ind1: Simulation.ind
+geno2: ../../French_CHB.geno
+snp2: ../../French_CHB.snp
+ind2: ../../French_CHB.ind
+indoutfilename: family.ind
+snpoutfilename: family.snp
+genooutfilename: family.geno
+parameter file: ../../mergeit.par
+geno1: Simulation.geno
+snp1: Simulation.snp
+ind1: Simulation.ind
+geno2: ../../French_CHB.geno
+snp2: ../../French_CHB.snp
+ind2: ../../French_CHB.ind
+indoutfilename: family.ind
+snpoutfilename: family.snp
+genooutfilename: family.geno
+Job done!
+parameter file: ../../mergeit.par
+geno1: Simulation.geno
+snp1: Simulation.snp
+ind1: Simulation.ind
+geno2: ../../French_CHB.geno
+snp2: ../../French_CHB.snp
+ind2: ../../French_CHB.ind
+indoutfilename: family.ind
+snpoutfilename: family.snp
+genooutfilename: family.geno
+Dumping results to Simulation.ancestry
+Dumping results to Simulation.ancestry
+Dumping results to Simulation.ancestry
+Dumping results to Simulation.ancestry
+Dumping results to Simulation.ancestry
+Dumping results to Simulation.ancestry
+Dumping results to Simulation.ancestry
+Dumping results to Simulation.ancestry
+Dumping results to Simulation.ancestry
+Dumping results to Simulation.ancestry
+Dumping results to Simulation.ancestry
+Dumping results to Simulation.ancestry
+Job done!
+Job done!
+Job done!
+Job done!
+Job done!
+Job done!
+Job done!
+Job done!
+Job done!
+parameter file: ../../mergeit.par
+parameter file: ../../mergeit.par
+geno1: Simulation.geno
+snp1: Simulation.snp
+ind1: Simulation.ind
+geno2: ../../French_CHB.geno
+snp2: ../../French_CHB.snp
+ind2: ../../French_CHB.ind
+indoutfilename: family.ind
+snpoutfilename: family.snp
+genooutfilename: family.geno
+geno1: Simulation.geno
+snp1: Simulation.snp
+ind1: Simulation.ind
+geno2: ../../French_CHB.geno
+snp2: ../../French_CHB.snp
+ind2: ../../French_CHB.ind
+indoutfilename: family.ind
+snpoutfilename: family.snp
+genooutfilename: family.geno
+Job done!
+Job done!
+Job done!
+parameter file: ../../mergeit.par
+geno1: Simulation.geno
+snp1: Simulation.snp
+ind1: Simulation.ind
+geno2: ../../French_CHB.geno
+snp2: ../../French_CHB.snp
+ind2: ../../French_CHB.ind
+indoutfilename: family.ind
+snpoutfilename: family.snp
+genooutfilename: family.geno
+parameter file: ../../mergeit.par
+parameter file: ../../mergeit.par
+geno1: Simulation.geno
+snp1: Simulation.snp
+ind1: Simulation.ind
+geno2: ../../French_CHB.geno
+snp2: ../../French_CHB.snp
+ind2: ../../French_CHB.ind
+indoutfilename: family.ind
+snpoutfilename: family.snp
+genooutfilename: family.geno
+geno1: Simulation.geno
+snp1: Simulation.snp
+ind1: Simulation.ind
+geno2: ../../French_CHB.geno
+snp2: ../../French_CHB.snp
+ind2: ../../French_CHB.ind
+indoutfilename: family.ind
+snpoutfilename: family.snp
+genooutfilename: family.geno
+parameter file: ../../mergeit.par
+geno1: Simulation.geno
+snp1: Simulation.snp
+ind1: Simulation.ind
+geno2: ../../French_CHB.geno
+snp2: ../../French_CHB.snp
+ind2: ../../French_CHB.ind
+indoutfilename: family.ind
+snpoutfilename: family.snp
+genooutfilename: family.geno
+parameter file: ../../mergeit.par
+geno1: Simulation.geno
+snp1: Simulation.snp
+ind1: Simulation.ind
+geno2: ../../French_CHB.geno
+snp2: ../../French_CHB.snp
+ind2: ../../French_CHB.ind
+indoutfilename: family.ind
+snpoutfilename: family.snp
+genooutfilename: family.geno
+parameter file: ../../mergeit.par
+geno1: Simulation.geno
+snp1: Simulation.snp
+ind1: Simulation.ind
+geno2: ../../French_CHB.geno
+snp2: ../../French_CHB.snp
+ind2: ../../French_CHB.ind
+indoutfilename: family.ind
+snpoutfilename: family.snp
+genooutfilename: family.geno
+parameter file: ../../mergeit.par
+geno1: Simulation.geno
+snp1: Simulation.snp
+ind1: Simulation.ind
+geno2: ../../French_CHB.geno
+snp2: ../../French_CHB.snp
+ind2: ../../French_CHB.ind
+indoutfilename: family.ind
+snpoutfilename: family.snp
+genooutfilename: family.geno
+parameter file: ../../mergeit.par
+geno1: Simulation.geno
+snp1: Simulation.snp
+ind1: Simulation.ind
+geno2: ../../French_CHB.geno
+snp2: ../../French_CHB.snp
+ind2: ../../French_CHB.ind
+indoutfilename: family.ind
+snpoutfilename: family.snp
+genooutfilename: family.geno
+parameter file: ../../mergeit.par
+geno1: Simulation.geno
+snp1: Simulation.snp
+ind1: Simulation.ind
+geno2: ../../French_CHB.geno
+snp2: ../../French_CHB.snp
+ind2: ../../French_CHB.ind
+indoutfilename: family.ind
+snpoutfilename: family.snp
+genooutfilename: family.geno
+parameter file: ../../mergeit.par
+geno1: Simulation.geno
+snp1: Simulation.snp
+ind1: Simulation.ind
+geno2: ../../French_CHB.geno
+snp2: ../../French_CHB.snp
+ind2: ../../French_CHB.ind
+indoutfilename: family.ind
+snpoutfilename: family.snp
+genooutfilename: family.geno
+numsnps: 378678  numindivs: 113
+numsnps: 378678  numindivs: 113
+numsnps: 378678  numindivs: 113
+numsnps: 378678  numindivs: 113
+numsnps: 378678  numindivs: 113
+numsnps: 378678  numindivs: 113
+numsnps: 378678  numindivs: 113
+numsnps: 378678  numindivs: 113
+packedancestrymap output
+packedancestrymap output
+numsnps: 378678  numindivs: 113
+packedancestrymap output
+numsnps: 378678  numindivs: 113
+numsnps: 378678  numindivs: 113
+numsnps: 378678  numindivs: 113
+numsnps: 378678  numindivs: 113
+numsnps: 378678  numindivs: 113
+packedancestrymap output
+numsnps: 378678  numindivs: 113
+numsnps: 378678  numindivs: 113
+numsnps: 378678  numindivs: 113
+packedancestrymap output
+numsnps: 378678  numindivs: 113
+numsnps: 378678  numindivs: 113
+numsnps: 378678  numindivs: 113
+packedancestrymap output
+packedancestrymap output
+packedancestrymap output
+packedancestrymap output
+packedancestrymap output
+packedancestrymap output
+packedancestrymap output
+packedancestrymap output
+packedancestrymap output
+packedancestrymap output
+packedancestrymap output
+packedancestrymap output
+packedancestrymap output
+packedancestrymap output
+##end of mergeit run
+packedancestrymap output
+##end of mergeit run
+##end of mergeit run
+##end of mergeit run
+##end of mergeit run
+##end of mergeit run
+##end of mergeit run
+##end of mergeit run
+##end of mergeit run
+##end of mergeit run
+##end of mergeit run
+##end of mergeit run
+##end of mergeit run
+##end of mergeit run
+##end of mergeit run
+##end of mergeit run
+##end of mergeit run
+##end of mergeit run
+##end of mergeit run
+##end of mergeit run

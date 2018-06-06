@@ -1,0 +1,9 @@
+geno1: Simulation.geno
+snp1:  Simulation.snp
+ind1:  Simulation.ind 
+geno2: ../../French_CHB.geno
+snp2:  ../../French_CHB.snp
+ind2:  ../../French_CHB.ind 
+indoutfilename: family.ind
+snpoutfilename: family.snp
+genooutfilename: family.geno

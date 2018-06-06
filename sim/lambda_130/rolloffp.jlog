@@ -1,0 +1,77 @@
+~moorjani/bin/wtjack:roll -i rolloffp -m family.snp -b 0.001 -n 22
+chrom: 1  count: 29887chrom: 2  count: 31717chrom: 3  count: 26441chrom: 4  count: 22805chrom: 5  count: 24014chrom: 6  count: 25726chrom: 7  count: 20899chrom: 8  count: 21125chrom: 9  count: 18158chrom: 10  count: 20523chrom: 11  count: 18794chrom: 12  count: 18870chrom: 13  count: 14506chrom: 14  count: 12792chrom: 15  count: 11696chrom: 16  count: 11543chrom: 17  count: 10124chrom: 18  count: 11676chrom: 19  count: 6220chrom: 20  count: 10019chrom: 21  count: 5602chrom: 22  count: 5541
+Pop: rolloffp
+
+Mean square error of fit
+~moorjani/bin/expfit -i rolloffp.out:1 -n 1 -o fit_rolloffp -l 0.45 -a -s 0.001 -c 3 >>expfit_rolloffp.log
+Chr 1:    1  29887.000000    190.578000
+~moorjani/bin/expfit -i rolloffp.out:2 -n 1 -o fit_rolloffp -l 0.45 -a -s 0.001 -c 3 >>expfit_rolloffp.log
+Chr 2:    2  31717.000000    119.488000
+~moorjani/bin/expfit -i rolloffp.out:3 -n 1 -o fit_rolloffp -l 0.45 -a -s 0.001 -c 3 >>expfit_rolloffp.log
+Chr 3:    3  26441.000000    161.349000
+~moorjani/bin/expfit -i rolloffp.out:4 -n 1 -o fit_rolloffp -l 0.45 -a -s 0.001 -c 3 >>expfit_rolloffp.log
+Chr 4:    4  22805.000000    143.231000
+~moorjani/bin/expfit -i rolloffp.out:5 -n 1 -o fit_rolloffp -l 0.45 -a -s 0.001 -c 3 >>expfit_rolloffp.log
+Chr 5:    5  24014.000000    188.155000
+~moorjani/bin/expfit -i rolloffp.out:6 -n 1 -o fit_rolloffp -l 0.45 -a -s 0.001 -c 3 >>expfit_rolloffp.log
+Chr 6:    6  25726.000000    157.981000
+~moorjani/bin/expfit -i rolloffp.out:7 -n 1 -o fit_rolloffp -l 0.45 -a -s 0.001 -c 3 >>expfit_rolloffp.log
+Chr 7:    7  20899.000000    130.271000
+~moorjani/bin/expfit -i rolloffp.out:8 -n 1 -o fit_rolloffp -l 0.45 -a -s 0.001 -c 3 >>expfit_rolloffp.log
+Chr 8:    8  21125.000000    152.848000
+~moorjani/bin/expfit -i rolloffp.out:9 -n 1 -o fit_rolloffp -l 0.45 -a -s 0.001 -c 3 >>expfit_rolloffp.log
+Chr 9:    9  18158.000000    188.801000
+~moorjani/bin/expfit -i rolloffp.out:10 -n 1 -o fit_rolloffp -l 0.45 -a -s 0.001 -c 3 >>expfit_rolloffp.log
+Chr 10:   10  20523.000000    166.485000
+~moorjani/bin/expfit -i rolloffp.out:11 -n 1 -o fit_rolloffp -l 0.45 -a -s 0.001 -c 3 >>expfit_rolloffp.log
+Chr 11:   11  18794.000000    154.703000
+~moorjani/bin/expfit -i rolloffp.out:12 -n 1 -o fit_rolloffp -l 0.45 -a -s 0.001 -c 3 >>expfit_rolloffp.log
+Chr 12:   12  18870.000000    143.974000
+~moorjani/bin/expfit -i rolloffp.out:13 -n 1 -o fit_rolloffp -l 0.45 -a -s 0.001 -c 3 >>expfit_rolloffp.log
+Chr 13:   13  14506.000000    164.994000
+~moorjani/bin/expfit -i rolloffp.out:14 -n 1 -o fit_rolloffp -l 0.45 -a -s 0.001 -c 3 >>expfit_rolloffp.log
+Chr 14:   14  12792.000000    150.653000
+~moorjani/bin/expfit -i rolloffp.out:15 -n 1 -o fit_rolloffp -l 0.45 -a -s 0.001 -c 3 >>expfit_rolloffp.log
+Chr 15:   15  11696.000000    138.921000
+~moorjani/bin/expfit -i rolloffp.out:16 -n 1 -o fit_rolloffp -l 0.45 -a -s 0.001 -c 3 >>expfit_rolloffp.log
+Chr 16:   16  11543.000000    164.020000
+~moorjani/bin/expfit -i rolloffp.out:17 -n 1 -o fit_rolloffp -l 0.45 -a -s 0.001 -c 3 >>expfit_rolloffp.log
+Chr 17:   17  10124.000000    161.718000
+~moorjani/bin/expfit -i rolloffp.out:18 -n 1 -o fit_rolloffp -l 0.45 -a -s 0.001 -c 3 >>expfit_rolloffp.log
+Chr 18:   18  11676.000000    156.796000
+~moorjani/bin/expfit -i rolloffp.out:19 -n 1 -o fit_rolloffp -l 0.45 -a -s 0.001 -c 3 >>expfit_rolloffp.log
+Chr 19:   19   6220.000000    154.880000
+~moorjani/bin/expfit -i rolloffp.out:20 -n 1 -o fit_rolloffp -l 0.45 -a -s 0.001 -c 3 >>expfit_rolloffp.log
+Chr 20:   20  10019.000000    148.341000
+~moorjani/bin/expfit -i rolloffp.out:21 -n 1 -o fit_rolloffp -l 0.45 -a -s 0.001 -c 3 >>expfit_rolloffp.log
+Chr 21:   21   5602.000000    154.811000
+~moorjani/bin/expfit -i rolloffp.out:22 -n 1 -o fit_rolloffp -l 0.45 -a -s 0.001 -c 3 >>expfit_rolloffp.log
+Chr 22:   22   5541.000000    150.608000
+Overall: ~moorjani/bin/expfit -i rolloffp.out -n 1 -o fit_rolloffp -l 0.45 -a -s 0.001 -c 3 >expfit_rolloffp.flog
+156.049
+
+Jackknife summary:
+  1  29887.000000    190.578000
+  2  31717.000000    119.488000
+  3  26441.000000    161.349000
+  4  22805.000000    143.231000
+  5  24014.000000    188.155000
+  6  25726.000000    157.981000
+  7  20899.000000    130.271000
+  8  21125.000000    152.848000
+  9  18158.000000    188.801000
+ 10  20523.000000    166.485000
+ 11  18794.000000    154.703000
+ 12  18870.000000    143.974000
+ 13  14506.000000    164.994000
+ 14  12792.000000    150.653000
+ 15  11696.000000    138.921000
+ 16  11543.000000    164.020000
+ 17  10124.000000    161.718000
+ 18  11676.000000    156.796000
+ 19   6220.000000    154.880000
+ 20  10019.000000    148.341000
+ 21   5602.000000    154.811000
+ 22   5541.000000    150.608000
+mean:   156.049 len: 22
+mean:    156.049 jmean:    146.544 std. err:     68.698 jmean (years):   4249.776 std. err(years):   1992.242

@@ -1,0 +1,13 @@
+ancestorAgeno:	../../CEU.phgeno
+ancestorAind:	../../CEU.phind
+ancestorAsnp:	../../CEU.phsnp
+ancestorBgeno:	../../Han.phgeno
+ancestorBind:	../../Han.phind
+ancestorBsnp:	../../Han.phsnp
+lambda:	20
+theta:	0.20
+n:	1
+trackancestry:	True
+outputfilename:	Simulation
+haploidoutput:	False
+

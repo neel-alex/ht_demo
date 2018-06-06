@@ -1,0 +1,53 @@
+
+## rolloffp.  Version 200
+
+parameter file: ../../rolloffp.par
+indivname: family.ind
+snpname: family.snp
+genotypename: family.geno
+poplistname: ../../ancpop.list
+admixlist: ../../admix.list
+binsize: 0.001
+output: rolloffp.out
+maxdis: 1.0
+seed: 77
+runmode: 1
+chithresh: 0.0
+mincount: 1
+zdipcorrmode: YES
+jackknife: YES
+seed: 77
+chithresh:     0.000
+genotypename:  family.geno
+packed geno read OK
+end of inpack
+valid snps: 378678
+group 0 French
+group 1 CHB
+number admixed: 1 numeg: 2
+numsnps: 378678  numindivs: 113
+coeff:   0              NA00000     0.209
+starting main loop. ID NA00000 numsnps: 363618
+sample:              NA00000 chrom   2 done
+sample:              NA00000 chrom   3 done
+sample:              NA00000 chrom   4 done
+sample:              NA00000 chrom   5 done
+sample:              NA00000 chrom   6 done
+sample:              NA00000 chrom   7 done
+sample:              NA00000 chrom   8 done
+sample:              NA00000 chrom   9 done
+sample:              NA00000 chrom  10 done
+sample:              NA00000 chrom  11 done
+sample:              NA00000 chrom  12 done
+sample:              NA00000 chrom  13 done
+sample:              NA00000 chrom  14 done
+sample:              NA00000 chrom  15 done
+sample:              NA00000 chrom  16 done
+sample:              NA00000 chrom  17 done
+sample:              NA00000 chrom  18 done
+sample:              NA00000 chrom  19 done
+sample:              NA00000 chrom  20 done
+sample:              NA00000 chrom  21 done
+sample:              NA00000 chrom  22 done
+sample:              NA00000 chrom:  22 done
+##end of rolloffp

@@ -1,0 +1,16 @@
+indivname:	family.ind
+snpname:	family.snp
+genotypename:	family.geno
+poplistname:	../../ancpop.list
+admixlist:	../../admix.list
+binsize:	0.001
+output:		rolloffp.out
+maxdis:		1.0
+seed:		77
+runmode:	1
+chithresh:	0.0
+mincount:	1
+zdipcorrmode:	YES
+jackknife:	YES
+
+

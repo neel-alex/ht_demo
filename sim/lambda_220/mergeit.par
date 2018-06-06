@@ -1,0 +1,9 @@
+geno1: lambda_220/Simulation.geno
+snp1:  lambda_220/Simulation.snp
+ind1:  lambda_220/Simulation.ind 
+geno2: ../French_Yoruba.geno
+snp2:  ../French_Yoruba.snp
+ind2:  ../French_Yoruba.ind 
+indoutfilename: lambda_220/family.ind
+snpoutfilename: lambda_220/family.snp
+genooutfilename: lambda_220/family.geno

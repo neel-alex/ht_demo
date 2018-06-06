@@ -1,0 +1,16 @@
+indivname:	lambda_210/family.ind
+snpname:	lambda_210/family.snp
+genotypename:	lambda_210/family.geno
+poplistname:	../ancpop.list
+admixlist:	../admix.list
+binsize:	0.001
+output:		lambda_210/rolloffp.out
+maxdis:		1.0
+seed:		77
+runmode:	1
+chithresh:	0.0
+mincount:	1
+zdipcorrmode:	YES
+jackknife:	YES
+
+
